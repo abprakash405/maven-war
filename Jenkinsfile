@@ -1,4 +1,4 @@
-@Library('shared-library@feature/branch1')_
+@Library('shared-library@master')_
 Pipeline{
 	reponame = "maven-war"
 }
